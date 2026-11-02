@@ -1,0 +1,5 @@
+
+# Local winPEAS executables
+prism/tools/windows-privesc/winpeas/winPEASany.exe
+prism/tools/windows-privesc/winpeas/winPEASx64.exe
+prism/tools/windows-privesc/winpeas/winPEASx86.exe
